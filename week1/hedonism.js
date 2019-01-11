@@ -14,14 +14,14 @@ module.exports.notes = [
   'It is better to be a human being dissatisfied, than a pig satisfied',
   'infirmity of character often makes one elect for the nearer good, though it be the less valuable, no less between two bodily pleasures than between bodily and mental.',
   'Capacity for the nobler feelings is in most natures a very tender plant, easily killed, not only by hostile influences, but by mere want of sustenance.',
-  
+  'Those who have gone before you are probably in a better position to inform your judgement.',
 
 ];
 
 module.exports.observations = [
   'Mill definitely believes in classes. p259c2 "A being of higher faculties requires more to make him happy...he can never really wish to sink into what he feels to be a lower grade of existence."',
   '"Society" should be expected to stimulate the nobler feelings and exercise the higher capacity of people (p260 c1). Could propaganda that stimulated these nobler feelings be considered utilitarian?',
-  'Those who have gone before you are probably in a better position to inform your judgement.',
+  
 ],
 
 module.exports.questions = [
