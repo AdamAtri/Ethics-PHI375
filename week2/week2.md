@@ -64,3 +64,17 @@ An Action is morally permissible iff no other action produces a better outcome
  - Threshold Theory
     - Maybe, only if `m` > `X`
     - `X` = the threshold beyond which killing an innocent person is justified (> 2)
+
+### Assumptions of Non-Consequentialism
+- Non-consequentialist theories reject the following claim:
+    - An action is morally permissible iff no other action produces a better outcome
+- For non-consequentialists, sometimes an action is wrong even though no other action produces a better outcome and an action that produces a lower rnaked outcome is sometimes morally permissible
+- For non-c, having no alternative that produces a better outcome is neither *necessary* nor *sufficient* for an action to be morally permissible
+- You may end up not taking any action.
+
+### Types of Non-Consequentialism
+- Absolutist: Absolute prohibitions
+    - Certain types of action - like killing the innocent - are wrong no matter how much good results
+- Threshold: Prohibitions with "escape clauses"
+    - Certain types of actions - like killing the innocent - are wrong unless the produce really, really god outcomes
+- Bot types will sometimes agree with consequentialism: somethimes the action that produces the best outcome doesn't violate any prohibitions
