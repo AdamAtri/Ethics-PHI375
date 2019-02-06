@@ -31,5 +31,25 @@ Two ways of making a decision:
 
 Imagine it is better to let a certain child drown:
 1. Jane uses "Always save drowning children" as her decision procedure and saves the child
-2. Jack tries to calculate whether saving the child will maximize happiness and, while he is doing so, the child drowns
+2. Jack tries to calculate, via the fundamental principle, whether saving the child will maximize happiness and, while he is doing so, the child drowns
 
+- Utilitarians say that Jane's action is objectively wrong while Jack's action is objectively right
+- As agents Jane is right.
+
+
+
+"... mankind must by this time have acquired positive beliefs as to the effects of some actions on their happiness; and the beliefs which have thus come down are the rules of morality for the multitude, and for the philosopher until he has succeeded in finding better. That philosophers might easily do this .. and that mankind have still much to learn as to the effects of actions on the general happiness, i admit, or rather, earnstly maintain(420)"
+
+- new information or new circumstances may change what subordinate principles on should use
+
+Unlike the fundamental principle, subordinate principles, as rules of thumb, may change over time.
+
+
+## A Third Problem with Utilitarianism
+Utilitarianism disagrees with intuitive common sense moral judgments about certain cases.
+- There are cases in which the intuitive judgement is that it's wrong to do what maximizes utility
+### Example:
+"Suppose that the sheriff of a small town can prevent serious riots (in which hundreds of people will be killed) only by 'framing' and executing (as a scapegoat) an innocent man. ... it can be imagined that the sheriff has first rate empirical evidence that he will never be found out."
+- Framing an innocent man maximizes net utility
+- The intuitive moral judgment is that it is wrong to do what maximizes utility
+- There are cases in which the intuitive judgment is that it's permissible to do what doesn't maximize utility
