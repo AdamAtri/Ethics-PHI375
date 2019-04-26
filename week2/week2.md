@@ -78,3 +78,37 @@ An Action is morally permissible iff no other action produces a better outcome
 - Threshold: Prohibitions with "escape clauses"
     - Certain types of actions - like killing the innocent - are wrong unless the produce really, really god outcomes
 - Bot types will sometimes agree with consequentialism: somethimes the action that produces the best outcome doesn't violate any prohibitions
+
+##  !
+# John Stuart Mill - Consequentialist Moral Theory
+### Utilitarianism
+1. A version of consequentialism 
+    - Whether an action is right is determined by whether it produces the best outcome
+2. Utilitarianism = Greatest Happiness Principle
+    - Outcomes are ranked in terms of total net happiness (= happiness - unhappiness)
+
+## What is happiness?
+- What makes a person's life a good life for that person?
+- Not a moral question - it's a question of self-interest
+    - e.g., a good life for Hitler isn't a morally good life
+- Different theories of happiness/well-being lead to different version of utilitarianism
+    - Different theories of happiness/well-being may rank outcomes differently
+
+## Hedonism
+Hedonism says the amount of pleasure a person experiences determines how good (=happy) of a life that person has.
+
+"the ultimate end, with reference to and for the sake of which all other things are desirable (whether we are considering our own good or that of other people), is an existence exemtp as far as possible from pain, and as rich as possible in enjoyments..."
+
+As a hedonist, Mill regards pleasure - and only pleasure - as having positive intrinsic value.
+
+1. Quantitavtive Hedonism
+    - Pleasures differ only in quantity (no intellect / sensation division)
+    - A life of intellectual pleasure is the best only because of the circumstantial advantages of those pleasures, only because pursuing them leads to a greater quantity of pleasure
+
+2. Qualitative Hedonism
+    - Pleasures differ in both quantity and quality
+    - Agrees with quantitative hedonism that the circumstantial advantages of the pleasures of the intellect makes a life devoted to them better than a life devoted to the pleasures of senstaion
+    - Goes further in holding that the greater intrinsic quality of the plearues of the intellect also makes a life devoted to them better than a life devoted to the pleasures of sensation
+    - Mill is a qualitative hedonist
+
+### The Test of The Only Competent Judges
